@@ -1,4 +1,4 @@
-## ODC Open Database License (ODbL)
+## Modified ODC Open Database License (ODbL)
 
 ### Preamble
 
