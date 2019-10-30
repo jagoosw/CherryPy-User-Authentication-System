@@ -16,3 +16,4 @@ This list could be nearly infinite since theres a lot that could be changed abou
 2. Sort out the email confirmation functionality
 3. Sort out the logging, its very bad and poor for actual security puroposes and also the error log grows huge
 4. Refactor the code so that it is much easier for someone that isn't me to use, think this will involve splitting the main script into lots of different things and making a proper set up code and then some way for people to add their protected and un protected content much more easily
+5. Make the website look nice, the intention of this project was never the front end but for 4 to be useful then this needs to be done
